@@ -12,7 +12,7 @@ According to peer-reviewed auditory neurobiology research in [PubMed Central (Ra
 ---
 
 ## 2. Acoustic Sound Pressure Level (SPL) & Power Consumption Formulation
-The **Repellio PRO** transducer generates a sweeping 115 dB SPL ultrasonic wave while drawing less than 2.2 Watts on standard 110V–240V AC outlets:
+The **Repellio PRO** transducer generates a sweeping 115 dB SPL ultrasonic wave while drawing less than 2.2 Watts on standard 110V–240V AC outlets,:
 
 $$P_{acoustic}(f) = P_{0} \cdot \left| H(f) \right|^2$$
 
